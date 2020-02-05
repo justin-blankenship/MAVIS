@@ -1,4 +1,23 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Meteorology and Astronomy Virtual Information System (MAVIS)
+## Developer
+##### [Justin Blankenship](https://github.com/justin-blankenship)
+## Outdoor Recreation Meets Technology
+###### A mobile-friendly web application that allows users fast and ad-free experience when looking for things like weather forecasts or lunar phases. This application takes advantage of serveral API's. The modular nature allows simple expansion in the future. This was built solely for personal use, but anyone can use this to assist in building their own applications.
+## Platform
+##### This is a React.js application built using:
+- [React](https://reactjs.org/)
+- [Node](https://nodejs.org/en)
+## Libraries
+##### Some libraries used include:
+- [Moment](https://momentjs.com/)
+- [Styled Components](https://styled-components.com/)
+- [Bootstrap 4](https://getbootstrap.com)
+- [React Router DOM](https://www.npmjs.com/package/react-router-dom)
+## Screenshots
+##### Home Screen
+![Home Screen]()
+##### Forecast Screen (5 Day)
+![Forecast Screen]()
 
 ## Available Scripts
 
