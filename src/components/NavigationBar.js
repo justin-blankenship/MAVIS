@@ -39,7 +39,7 @@ export const NavigationBar = () => (
 				<Nav className="ml-auto">
 					<Nav.Item><Nav.Link href="/">Home</Nav.Link></Nav.Item>
 					<Nav.Item><Nav.Link href="/forecast">5 Day Forecast</Nav.Link></Nav.Item>
-					<Nav.Item><Nav.Link href="/contact">Contact</Nav.Link></Nav.Item>
+					<Nav.Item><Nav.Link href="/moon">Moon</Nav.Link></Nav.Item>
 				</Nav>
 			</Navbar.Collapse>
 		</Navbar>

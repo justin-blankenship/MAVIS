@@ -1,12 +1,17 @@
 # Meteorology and Astronomy Virtual Information System (MAVIS)
 ## Developer
 ##### [Justin Blankenship](https://github.com/justin-blankenship)
+## *NOTE*
+### This is an ongoing project that is not yet complete.
 ## Get weather forecasts and more!
 ###### A mobile-friendly web application that allows users fast and ad-free experience when looking for things like weather forecasts or lunar phases. This application takes advantage of serveral API's. The modular nature allows simple expansion in the future. This was built solely for personal use, but anyone can use this to assist in building their own applications.
 ## Platform
-##### This is a React.js application built using:
+##### This application was built using:
 - [React](https://reactjs.org/)
 - [Node](https://nodejs.org/en)
+## API's
+#### Application Programming Interfaces (API's) used:
+- [Open Weather Map](https://openweathermap.org/)
 ## Libraries
 ##### Some libraries used include:
 - [Moment](https://momentjs.com/)
@@ -14,10 +19,10 @@
 - [Bootstrap 4](https://getbootstrap.com)
 - [React Router DOM](https://www.npmjs.com/package/react-router-dom)
 ## Screenshots
-##### Home Screen
-![Home Screen]()
+##### Current Weather Screen
+![Home Screen](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot1.PNG?raw=true)
 ##### Forecast Screen (5 Day)
-![Forecast Screen]()
+![Forecast Screen](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot1.PNG?raw=true)
 
 ## Available Scripts
 

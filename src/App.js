@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Home from './Home';
 import Forecast from './Forecast';
-import { Contact } from './Contact';
+import { Moon } from './Moon';
 import { NoMatch } from './NoMatch';
 import { Layout } from './components/Layout';
 import { NavigationBar } from './components/NavigationBar';
@@ -23,7 +23,7 @@ class App extends Component {
             <Switch>
               <Route exact path="/" component={Home}/>
               <Route exact path="/forecast" component={Forecast}/>
-              <Route path="/contact" component={Contact}/>
+              <Route path="/moon" component={Moon}/>
               <Route component={ NoMatch }/>
             </Switch>
           </Router>
