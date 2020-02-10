@@ -1,8 +1,7 @@
 # Meteorology and Astronomy Virtual Information System (MAVIS)
 ## Developer
 ##### [Justin Blankenship](https://github.com/justin-blankenship)
-## *NOTE*
-### This is an ongoing project that is not yet complete.
+## *NOTE* ### *This is an ongoing project that is not yet complete.*
 ## Get weather forecasts and more!
 ###### A mobile-friendly web application that allows users fast and ad-free experience when looking for things like weather forecasts or lunar phases. This application takes advantage of serveral API's. The modular nature allows simple expansion in the future. This was built solely for personal use, but anyone can use this to assist in building their own applications.
 ## Platform
@@ -22,7 +21,7 @@
 ##### Current Weather Screen
 ![Home Screen](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot1.PNG?raw=true)
 ##### Forecast Screen (5 Day)
-![Forecast Screen](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot1.PNG?raw=true)
+![Forecast Screen](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot2.PNG?raw=true)
 
 ## Available Scripts
 
