@@ -18,23 +18,9 @@ export function getCardinal(angle) {
 
 const Weather = props => (
     
-    // <h1 className="Weather">
-      
-    //   {props.city && props.country && <p>Location: {props.city}, {props.country}</p>}
-    //   {props.temperature && <p>Temperature: {props.temperature}&#x2109;</p>}
-    // 	{props.feelsLike && <p>Feels Like: {props.feelsLike}&#x2109;</p>}
-    // 	{props.humidity && <p>Humidity: {props.humidity}%</p>}
-    //   {props.description && <p>{props.description.replace(/\b[a-zA-Z]/g, (match) => match.toUpperCase())}</p>}   	
-    //   {props.windSpeed && <p>Wind: {getCardinal(props.windDirection)} @ {props.windSpeed} MPH</p>}    	
-    //   {props.sunrise && <p>Sunrise: {props.sunrise}</p>}    	
-    //   {props.sunset && <p>Sunset: {props.sunset}</p>}
-    //   {props.icon && <img src={"http://openweathermap.org/img/w/" + props.icon + ".png"} alt="Weather Icon" />}
-    //   {props.error && <p>{props.error}</p>}
-    
-    // </h1>
-<div>{props.city && props.country &&
+  <div>{props.city && props.country &&
     <div class="card bg-dark text-white">
-    <br/>
+      <br/>
       {props.icon && <img class="card-img-top" src={"http://openweathermap.org/img/w/" + props.icon + ".png"} alt="Weather Icon" />}
       <div class="card-body">
         {props.city && props.country && <h5 class="card-title">{props.city}, {props.country}</h5>}
@@ -49,6 +35,7 @@ const Weather = props => (
       </div>
     </div>
   }</div>
+  
 );
 
 export default Weather;

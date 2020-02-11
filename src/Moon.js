@@ -1,7 +1,7 @@
 import React from 'react';
 import MoonZipForm from './components/moonZipForm';
 import MoonTable from '././components/moonTable';
-import MoonImageSelection from '././components/moonImageSelection';
+import MoonInfoTitles from '././components/moonInfoTitles';
 
 const API_KEY = process.env.REACT_APP_MOON_KEY;
 
@@ -50,6 +50,8 @@ class Moon extends React.Component {
     render() {
         return (
             <React.Fragment>
+
+                <MoonInfoTitles/>
       
                 <MoonZipForm getMoonInfoByZip = {this.getMoonInfoByZip}/>               
 
@@ -60,9 +62,7 @@ class Moon extends React.Component {
         				moonset={this.state.moonset}
         				moonphase={this.state.moonphase}
         				illumination={this.state.illumination}   				
-        		/>
-
-        		<MoonImageSelection />  
+        		/> 
         		  		
       		</React.Fragment>
         );

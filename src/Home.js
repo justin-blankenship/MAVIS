@@ -131,9 +131,6 @@ class Home extends React.Component {
         			<ZipForm getWeather={this.getWeatherByZip}/>        		
         			
         		</div>
-
-        		
-        		<p>OR</p>
         		
         		<CityForm getWeather={this.getWeather}/>
       		

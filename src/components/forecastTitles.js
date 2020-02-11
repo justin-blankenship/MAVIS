@@ -2,13 +2,32 @@ import React from 'react';
 import './titleStyle.css';
 
 const ForecastTitles = () => (
-	<div className="Titles">
+	<div>
 
 		<div className="titleContainer">
-			<div className="animate seven">
-				<span>5</span>&nbsp;
-				<span>d</span><span>a</span><span>y</span>&nbsp;
-				<span>f</span><span>o</span><span>r</span><span>e</span><span>c</span><span>a</span><span>s</span><span>t</span>
+			<div className="animate2 seven">
+
+				<span>5</span>
+
+				&nbsp;
+				&nbsp;
+
+				<span>D</span>
+				<span>a</span>
+				<span>y</span>
+
+				&nbsp;
+				&nbsp;
+
+				<span>F</span>
+				<span>o</span>
+				<span>r</span>
+				<span>e</span>
+				<span>c</span>
+				<span>a</span>
+				<span>s</span>
+				<span>t</span>
+				
      		</div>
 		</div>
 		<br></br>
