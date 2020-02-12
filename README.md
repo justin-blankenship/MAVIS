@@ -21,9 +21,9 @@
 ##### Home
 ![Home](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/home.png?raw=true)
 ##### Current Weather
-![Current Weather](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot1.png?raw=true)
+![Current Weather](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot1.PNG?raw=true)
 ##### Forecast (5 Day)
-![Forecast](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot2.png?raw=true)
+![Forecast](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot2.PNG?raw=true)
 ##### Moon Information
 ![Moon Information](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot3.png?raw=true)
 
