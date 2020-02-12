@@ -11,6 +11,8 @@
 ## API's
 #### Application Programming Interfaces (API's) used:
 - [Open Weather Map](https://openweathermap.org/)
+- [World Weather Online - Astronomy](https://www.worldweatheronline.com/developer/api/docs/astronomy-api.aspx)
+###### *Note: You will need to aquire a free API Key from both of these vendors in order to run this application.*
 ## Libraries
 ##### Some libraries used include:
 - [Moment](https://momentjs.com/)
@@ -18,13 +20,13 @@
 - [Bootstrap 4](https://getbootstrap.com)
 - [React Router DOM](https://www.npmjs.com/package/react-router-dom)
 ## Screenshots
-##### Home
+##### Navbar
 ![Home](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/home.png?raw=true)
-##### Current Weather
+##### Current Weather Screen
 ![Current Weather](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot1.PNG?raw=true)
-##### Forecast (5 Day)
+##### Forecast Screen (5 Day)
 ![Forecast](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot2.PNG?raw=true)
-##### Moon Information
+##### Moon Information Screen
 ![Moon Information](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot3.png?raw=true)
 
 ## Available Scripts
