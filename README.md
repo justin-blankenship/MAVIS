@@ -12,7 +12,7 @@
 #### Application Programming Interfaces (API's) used:
 - [Open Weather Map](https://openweathermap.org/)
 - [World Weather Online - Astronomy](https://www.worldweatheronline.com/developer/api/docs/astronomy-api.aspx)
-###### *Note: You will need to aquire a free API Key from both of these vendors in order to run this application.*
+###### *Note: You will need to aquire a free API Key from both of these vendors in order to run this application. Place these keys in your .env directory. This is temporary ... keys are not secure this way!*
 ## Libraries
 ##### Some libraries used include:
 - [Moment](https://momentjs.com/)
