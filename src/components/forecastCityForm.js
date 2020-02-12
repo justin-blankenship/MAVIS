@@ -11,6 +11,9 @@ const ForecastCityForm = props => (
     				<input type="text" name="country" placeholder="Country..."/>
     				<button>5 Day Forecast</button>
     			</form>
+    			<div className="linkback float-right">
+					<p>Powered by <a rel="noopener noreferrer" href="https://openweathermap.org/" target="_blank">Open Weather Maps</a></p>
+				</div>
 			</div>
 		</div>
 	</div>

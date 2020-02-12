@@ -10,6 +10,9 @@ const MoonZipForm = props => (
 	    			<input className="formInputArrowDelete" type="number" name="zip" placeholder="Zip Code..."/>   
 	    			<button>Get Moon Info</button>
 	    		</form>
+	    		<div className="linkback float-right">
+					<p>Powered by <a rel="noopener noreferrer" href="https://www.worldweatheronline.com/developer/api/docs/astronomy-api.aspx" target="_blank">World Weather Online</a></p>
+				</div>
 			</div>
 		</div>
 	</div>

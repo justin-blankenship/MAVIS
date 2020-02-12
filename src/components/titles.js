@@ -2,9 +2,9 @@ import React from 'react';
 import './titleStyle.css';
 
 const Titles = () => (
-
+<div>
 	<div>
-		<div className="titleContainer">
+		<div className="titleContainer">						
 			<div className="animate2 seven">
 
 				<span>W</span>
@@ -31,6 +31,7 @@ const Titles = () => (
     	<h5 className="subtitle">Enter a location to see current weather conditions.</h5>
     	<br></br>
     </div>
+</div>
     
 );
 
