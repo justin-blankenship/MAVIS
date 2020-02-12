@@ -18,14 +18,14 @@
 - [Bootstrap 4](https://getbootstrap.com)
 - [React Router DOM](https://www.npmjs.com/package/react-router-dom)
 ## Screenshots
-##### Home Screen
-![Home Screen](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/home.png?raw=true)
-##### Current Weather Screen
-![Current Weather Screen](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot1.png?raw=true)
-##### Forecast Screen (5 Day)
-![Forecast Screen](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot2.png?raw=true)
-##### Moon Information Screen
-![Moon Information Screen](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot3.png?raw=true)
+##### Home
+![Home](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/home.png?raw=true)
+##### Current Weather
+![Current Weather](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot1.png?raw=true)
+##### Forecast (5 Day)
+![Forecast](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot2.png?raw=true)
+##### Moon Information
+![Moon Information](https://github.com/justin-blankenship/MAVIS/blob/master/src/assets/shot3.png?raw=true)
 
 ## Available Scripts
 
