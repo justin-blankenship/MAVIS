@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "https://justin-blankenship.github.io/MAVIS/static/css/main.466ee109.chunk.css",
+    "main.js": "https://justin-blankenship.github.io/MAVIS/static/js/main.432a3b31.chunk.js",
+    "main.js.map": "https://justin-blankenship.github.io/MAVIS/static/js/main.432a3b31.chunk.js.map",
+    "runtime-main.js": "https://justin-blankenship.github.io/MAVIS/static/js/runtime-main.8bc02498.js",
+    "runtime-main.js.map": "https://justin-blankenship.github.io/MAVIS/static/js/runtime-main.8bc02498.js.map",
+    "static/css/2.47e06e2e.chunk.css": "https://justin-blankenship.github.io/MAVIS/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.9734be39.chunk.js": "https://justin-blankenship.github.io/MAVIS/static/js/2.9734be39.chunk.js",
+    "static/js/2.9734be39.chunk.js.map": "https://justin-blankenship.github.io/MAVIS/static/js/2.9734be39.chunk.js.map",
+    "index.html": "https://justin-blankenship.github.io/MAVIS/index.html",
+    "precache-manifest.8e2975131fa586e940d1e6633ae10ff6.js": "https://justin-blankenship.github.io/MAVIS/precache-manifest.8e2975131fa586e940d1e6633ae10ff6.js",
+    "service-worker.js": "https://justin-blankenship.github.io/MAVIS/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "https://justin-blankenship.github.io/MAVIS/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.466ee109.chunk.css.map": "https://justin-blankenship.github.io/MAVIS/static/css/main.466ee109.chunk.css.map",
+    "static/js/2.9734be39.chunk.js.LICENSE.txt": "https://justin-blankenship.github.io/MAVIS/static/js/2.9734be39.chunk.js.LICENSE.txt",
+    "static/media/firstQuarter.png": "https://justin-blankenship.github.io/MAVIS/static/media/firstQuarter.b49f7a36.png",
+    "static/media/fullMoon.png": "https://justin-blankenship.github.io/MAVIS/static/media/fullMoon.9ea471b7.png",
+    "static/media/home.png": "https://justin-blankenship.github.io/MAVIS/static/media/home.b7e42a41.png",
+    "static/media/mavisLogo.png": "https://justin-blankenship.github.io/MAVIS/static/media/mavisLogo.2b10a863.png",
+    "static/media/shot3.png": "https://justin-blankenship.github.io/MAVIS/static/media/shot3.76cb061b.png",
+    "static/media/stormImage.jpg": "https://justin-blankenship.github.io/MAVIS/static/media/stormImage.b7c06d6e.jpg",
+    "static/media/thirdQuarter.png": "https://justin-blankenship.github.io/MAVIS/static/media/thirdQuarter.e59de20d.png",
+    "static/media/waningCrescent.png": "https://justin-blankenship.github.io/MAVIS/static/media/waningCrescent.866604d4.png",
+    "static/media/waningGibbous.png": "https://justin-blankenship.github.io/MAVIS/static/media/waningGibbous.256235ee.png",
+    "static/media/waxingCrescent.png": "https://justin-blankenship.github.io/MAVIS/static/media/waxingCrescent.610a88c0.png",
+    "static/media/waxingGibbous.png": "https://justin-blankenship.github.io/MAVIS/static/media/waxingGibbous.bd6a45d9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bc02498.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.9734be39.chunk.js",
+    "static/css/main.466ee109.chunk.css",
+    "static/js/main.432a3b31.chunk.js"
+  ]
+}
