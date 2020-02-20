@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e10a6ccd196d7f47679e6c853c1f7a40",
+    "revision": "73cec25b9e0ee6495f45d2238e25645c",
     "url": "https://justin-blankenship.github.io/MAVIS/index.html"
   },
   {
-    "revision": "de6b7f8f3bbad70549be",
+    "revision": "0355320ca29faef43e66",
     "url": "https://justin-blankenship.github.io/MAVIS/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "3fb149aabed4ce7be851",
+    "revision": "47257e06160dd849ab07",
     "url": "https://justin-blankenship.github.io/MAVIS/static/css/main.466ee109.chunk.css"
   },
   {
-    "revision": "de6b7f8f3bbad70549be",
-    "url": "https://justin-blankenship.github.io/MAVIS/static/js/2.9734be39.chunk.js"
+    "revision": "0355320ca29faef43e66",
+    "url": "https://justin-blankenship.github.io/MAVIS/static/js/2.bf45071e.chunk.js"
   },
   {
     "revision": "bf23039b4e70a07c5aeb1b4010df3572",
-    "url": "https://justin-blankenship.github.io/MAVIS/static/js/2.9734be39.chunk.js.LICENSE.txt"
+    "url": "https://justin-blankenship.github.io/MAVIS/static/js/2.bf45071e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3fb149aabed4ce7be851",
-    "url": "https://justin-blankenship.github.io/MAVIS/static/js/main.432a3b31.chunk.js"
+    "revision": "47257e06160dd849ab07",
+    "url": "https://justin-blankenship.github.io/MAVIS/static/js/main.bb85c76d.chunk.js"
   },
   {
     "revision": "4ec471b96947ad01fe49",
