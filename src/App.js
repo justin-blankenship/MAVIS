@@ -20,7 +20,7 @@ class App extends Component {
         <Jumbotron/>
         <Layout>
           <Router>
-            <Switch basename="/MAVIS">
+            <Switch>
               <Route exact path="/" component={Home}/>
               <Route exact path="/forecast" component={Forecast}/>
               <Route path="/moon" component={Moon}/>
