@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b5cf7c226fd889bc09d8a3868419b3f",
+    "revision": "9cad5c5f5a226106696f0224181f6249",
     "url": "/MAVIS/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MAVIS/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "ddddee23876ac4c187ed",
+    "revision": "71a6adc31e6a69374bca",
     "url": "/MAVIS/static/css/main.466ee109.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MAVIS/static/js/2.c79d76a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ddddee23876ac4c187ed",
-    "url": "/MAVIS/static/js/main.737a256a.chunk.js"
+    "revision": "71a6adc31e6a69374bca",
+    "url": "/MAVIS/static/js/main.b761416f.chunk.js"
   },
   {
     "revision": "9ca064b7954436d3ac42",
