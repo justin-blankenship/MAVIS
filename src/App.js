@@ -21,7 +21,7 @@ class App extends Component {
         <Layout>
           <Router>
             <Switch>
-              <Route exact path="/MAVIS/#" component={Home}/>
+              <Route exact path="/MAVIS" component={Home}/>
               <Route exact path="/MAVIS/#/forecast" component={Forecast}/>
               <Route path="/MAVIS/#/moon" component={Moon}/>
               <Route component={ NoMatch }/>
