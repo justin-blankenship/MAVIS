@@ -21,7 +21,7 @@ const Weather = props => (
   <div>{props.city && props.country &&
     <div class="card bg-dark text-white">
       <br/>
-      {props.icon && <img class="card-img-top" src={"http://openweathermap.org/img/w/" + props.icon + ".png"} alt="Weather Icon" />}
+      {props.icon && <img class="card-img-top" src={"https://openweathermap.org/img/w/" + props.icon + ".png"} alt="Weather Icon" />}
       <div class="card-body">
         {props.city && props.country && <h5 class="card-title">{props.city}, {props.country}</h5>}
         {props.temperature && <p class="card-text">Temperature: {props.temperature}&#x2109;</p>}
