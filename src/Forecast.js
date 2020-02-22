@@ -22,7 +22,7 @@ class Forecast extends React.Component {
     	e.preventDefault();
     	const city = e.target.elements.city.value;
         const country = e.target.elements.country.value;
-        const api_call = await fetch(`http://api.openweathermap.org/data/2.5/forecast?q=${city},${country}&APPID=${API_KEY}&units=imperial`);
+        const api_call = await fetch(`https://api.openweathermap.org/data/2.5/forecast?q=${city},${country}&APPID=${API_KEY}&units=imperial`);
         const data = await api_call.json();
 
         if (city && country) {
@@ -208,7 +208,7 @@ class Forecast extends React.Component {
         e.preventDefault();
         const zip = e.target.elements.zip.value;
         const country = e.target.elements.country.value;
-        const api_call = await fetch(`http://api.openweathermap.org/data/2.5/forecast?zip=${zip},${country}&APPID=${API_KEY}&units=imperial`);
+        const api_call = await fetch(`https://api.openweathermap.org/data/2.5/forecast?zip=${zip},${country}&APPID=${API_KEY}&units=imperial`);
         const data = await api_call.json();
 
         if (zip && country) {
