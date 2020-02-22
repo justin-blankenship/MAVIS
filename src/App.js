@@ -19,11 +19,11 @@ class App extends Component {
         <NavigationBar/>
         <Jumbotron/>
         <Layout>
-          <Router basename="MAVIS/">
+          <Router>
             <Switch>
               <Route exact path="/" component={Home}/>
-              <Route exact path="/" component={Forecast}/>
-              <Route path="/" component={Moon}/>
+              <Route exact path="/forecast" component={Forecast}/>
+              <Route path="/moon" component={Moon}/>
               <Route component={ NoMatch }/>
             </Switch>
           </Router>
