@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MAVIS/precache-manifest.05946025b9c194ee3beaaa05cedc2702.js"
+  "/MAVIS/precache-manifest.c6c276dca76de831175110d0a55c26ea.js"
 );
 
 self.addEventListener('message', (event) => {
