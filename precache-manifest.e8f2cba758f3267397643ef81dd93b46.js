@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "961e4c0204c13537e68223ee90e9430a",
+    "revision": "1bed2828d43f5fce8d2f8edd1a2b69bd",
     "url": "/MAVIS/index.html"
   },
   {
-    "revision": "c2a4e2b71bed76dbf0b3",
+    "revision": "10e03cb9a03710fe9fc7",
     "url": "/MAVIS/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "0f0eb05d70bc029a66c5",
+    "revision": "c2121d1cef7762eb1919",
     "url": "/MAVIS/static/css/main.466ee109.chunk.css"
   },
   {
-    "revision": "c2a4e2b71bed76dbf0b3",
-    "url": "/MAVIS/static/js/2.b4121ff8.chunk.js"
+    "revision": "10e03cb9a03710fe9fc7",
+    "url": "/MAVIS/static/js/2.865bbc2b.chunk.js"
   },
   {
     "revision": "bf23039b4e70a07c5aeb1b4010df3572",
-    "url": "/MAVIS/static/js/2.b4121ff8.chunk.js.LICENSE.txt"
+    "url": "/MAVIS/static/js/2.865bbc2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f0eb05d70bc029a66c5",
-    "url": "/MAVIS/static/js/main.af3947f6.chunk.js"
+    "revision": "c2121d1cef7762eb1919",
+    "url": "/MAVIS/static/js/main.3c5e7cb1.chunk.js"
   },
   {
     "revision": "9ca064b7954436d3ac42",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2b10a86336d54dc1aa5d30701c35ab11",
     "url": "/MAVIS/static/media/mavisLogo.2b10a863.png"
+  },
+  {
+    "revision": "3c8756c6ba0e9771f53cb4a8411cc17c",
+    "url": "/MAVIS/static/media/newMoon.3c8756c6.png"
   },
   {
     "revision": "76cb061b1464a23a6a77f7898f91ac06",
