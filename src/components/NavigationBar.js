@@ -3,6 +3,7 @@ import { Nav, Navbar } from 'react-bootstrap';
 import styled from 'styled-components';
 import mavisLogo from '../assets/mavisLogo.png';
 import './titleStyle.css';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 
 const Styles = styled.div`
 	.navbar {
@@ -36,11 +37,19 @@ export const NavigationBar = () => (
 
 			<Navbar.Toggle aria-controls="basic-navbar-nav" />
 			<Navbar.Collapse id="basic-navbar-nav">
+
 				<Nav className="ml-auto">
-					<Nav.Item><Nav.Link href="/">Home</Nav.Link></Nav.Item>
-					<Nav.Item><Nav.Link href="/forecast">5 Day Forecast</Nav.Link></Nav.Item>
-					<Nav.Item><Nav.Link href="/moon">Moon</Nav.Link></Nav.Item>
-				</Nav>
+					<Router basename="MAVIS/">
+	            		<Switch>
+
+	            			<Nav.Item><Nav.Link href="/">Home</Nav.Link></Nav.Item>
+							<Nav.Item><Nav.Link href="/forecast">5 Day Forecast</Nav.Link></Nav.Item>
+							<Nav.Item><Nav.Link href="/moon">Moon</Nav.Link></Nav.Item>
+
+	            		</Switch>
+	          		</Router>
+	          	</Nav>
+
 			</Navbar.Collapse>
 		</Navbar>
 	</Styles>
