@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MAVIS/static/css/main.466ee109.chunk.css",
-    "main.js": "/MAVIS/static/js/main.3c5e7cb1.chunk.js",
-    "main.js.map": "/MAVIS/static/js/main.3c5e7cb1.chunk.js.map",
+    "main.css": "/MAVIS/static/css/main.4070e0ee.chunk.css",
+    "main.js": "/MAVIS/static/js/main.73ab9d33.chunk.js",
+    "main.js.map": "/MAVIS/static/js/main.73ab9d33.chunk.js.map",
     "runtime-main.js": "/MAVIS/static/js/runtime-main.25c2394b.js",
     "runtime-main.js.map": "/MAVIS/static/js/runtime-main.25c2394b.js.map",
     "static/css/2.47e06e2e.chunk.css": "/MAVIS/static/css/2.47e06e2e.chunk.css",
     "static/js/2.865bbc2b.chunk.js": "/MAVIS/static/js/2.865bbc2b.chunk.js",
     "static/js/2.865bbc2b.chunk.js.map": "/MAVIS/static/js/2.865bbc2b.chunk.js.map",
     "index.html": "/MAVIS/index.html",
-    "precache-manifest.e8f2cba758f3267397643ef81dd93b46.js": "/MAVIS/precache-manifest.e8f2cba758f3267397643ef81dd93b46.js",
+    "precache-manifest.c5ab81840f4d1f3a889bca57617cf234.js": "/MAVIS/precache-manifest.c5ab81840f4d1f3a889bca57617cf234.js",
     "service-worker.js": "/MAVIS/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/MAVIS/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.466ee109.chunk.css.map": "/MAVIS/static/css/main.466ee109.chunk.css.map",
+    "static/css/main.4070e0ee.chunk.css.map": "/MAVIS/static/css/main.4070e0ee.chunk.css.map",
     "static/js/2.865bbc2b.chunk.js.LICENSE.txt": "/MAVIS/static/js/2.865bbc2b.chunk.js.LICENSE.txt",
     "static/media/firstQuarter.png": "/MAVIS/static/media/firstQuarter.b49f7a36.png",
     "static/media/fullMoon.png": "/MAVIS/static/media/fullMoon.9ea471b7.png",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.25c2394b.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.865bbc2b.chunk.js",
-    "static/css/main.466ee109.chunk.css",
-    "static/js/main.3c5e7cb1.chunk.js"
+    "static/css/main.4070e0ee.chunk.css",
+    "static/js/main.73ab9d33.chunk.js"
   ]
 }
