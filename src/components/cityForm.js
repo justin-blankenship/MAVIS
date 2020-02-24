@@ -6,7 +6,7 @@ const CityForm = props => (
 		<div>
 			<div className="mx-auto">
 				<p className="titleContainer text-center">or</p>
-				<form onSubmit={props.getWeather}>
+				<form className="pl-5 pr-5 text-nowrap" onSubmit={props.getWeather}>
 			    	<input type="text" name="city" placeholder="City..."/>
 			    	<input type="text" name="country" placeholder="Country..."/>     
 			    	<button>Get Weather</button>

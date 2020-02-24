@@ -4,23 +4,11 @@
   margin: 0; 
 }
 
-.Weather {
-  background-color: #FFC330;
-  color: #000;
-  float: right;
-  width: 15rem;
-  border-radius: 10px;
-  text-align: center;
-  margin: 1rem;
-  /*padding: calc(15px + 2vmin);*/
-  font-size: calc(5px + 2vmin);
-  margin-bottom: calc(20px + 2vmin);
-}
-
 .card {
   width: 15rem;
   float: right;
   text-align: center;
+  margin-bottom: 3rem;
 }
 
 .card-img-top {

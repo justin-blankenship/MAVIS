@@ -3,7 +3,7 @@ import '../App.css';
 
 const ForecastZipForm = props => (
 
-    <div className="row justify-content-center">
+    <div className="row justify-content-center ml-3 mr-3 text-nowrap">
 		<div>
 			<div className="mx-auto">
 				<form onSubmit={props.getForecast}>

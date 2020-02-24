@@ -2,7 +2,7 @@ import React from 'react';
 
 const ForecastCityForm = props => (
 
-   	<div className="row justify-content-center">
+   	<div className="row justify-content-center ml-3 mr-3 text-nowrap">
 		<div>
 			<div className="mx-auto">
 				<p className="titleContainer text-center">or</p>

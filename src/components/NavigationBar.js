@@ -6,8 +6,8 @@ import './titleStyle.css';
 
 const Styles = styled.div`
 	.navbar {
-		background-color: #222;
-		height: 3rem;
+		background-color: #444;
+		height: 100%;
 	}
 
 	.navbar-brand, .navbar-nav .nav-link {
@@ -18,17 +18,20 @@ const Styles = styled.div`
 		}
 	}
 
+	.logoImage {
+		width: 45px;
+        height: 35px;
+	}
+
 `;
 
 export const NavigationBar = () => (
 	<Styles>
-		<Navbar expand="lg">
+		<Navbar expand="always">
 			<Navbar.Brand href="/">
 				<img
         			src={mavisLogo}
-        			width="45"
-        			height="35"
-        			className="m-auto p-auto"
+        			className="logoImage ml-4"
         			alt="MAVIS Logo"
       			/>
       			<p className="navbarTitle m-auto pl-3">MAVIS</p>
@@ -36,9 +39,9 @@ export const NavigationBar = () => (
 
 			<Navbar.Toggle aria-controls="basic-navbar-nav" />
 			<Navbar.Collapse id="basic-navbar-nav">
-				<Nav className="ml-auto">
+				<Nav className="ml-auto text-right">
 
-					<Nav.Item>
+					<Nav.Item data-target="#sidenav-collapse-main">
 						<Nav.Link href="#/">Home</Nav.Link>
 					</Nav.Item>
 

@@ -27,7 +27,7 @@ class App extends Component {
               <Route component={ NoMatch }/>
             </Switch>
           </Router>
-        </Layout>  
+        </Layout>
       </React.Fragment>
         );
     }
