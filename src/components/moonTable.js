@@ -59,7 +59,7 @@ const MoonTable = props => (
 						<div className="col-4">
 							<div className="mx-auto h-10 w-10 p-0 bg-dark rounded">
 								<img
-									className="imgStyle"
+									className="imgStyle justify-content-center"
 					    			src={require(".././assets/" + props.moonphase.charAt(0).toLowerCase()+props.moonphase.slice(1).replace(/\s/g, '') + ".png")}
 					    			alt="Phase Image"
 					  			/>
