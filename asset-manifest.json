@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MAVIS/static/css/main.a53c675b.chunk.css",
-    "main.js": "/MAVIS/static/js/main.f934978b.chunk.js",
-    "main.js.map": "/MAVIS/static/js/main.f934978b.chunk.js.map",
+    "main.js": "/MAVIS/static/js/main.379d0228.chunk.js",
+    "main.js.map": "/MAVIS/static/js/main.379d0228.chunk.js.map",
     "runtime-main.js": "/MAVIS/static/js/runtime-main.25c2394b.js",
     "runtime-main.js.map": "/MAVIS/static/js/runtime-main.25c2394b.js.map",
     "static/css/2.47e06e2e.chunk.css": "/MAVIS/static/css/2.47e06e2e.chunk.css",
     "static/js/2.943d94ea.chunk.js": "/MAVIS/static/js/2.943d94ea.chunk.js",
     "static/js/2.943d94ea.chunk.js.map": "/MAVIS/static/js/2.943d94ea.chunk.js.map",
     "index.html": "/MAVIS/index.html",
-    "precache-manifest.29a788d73667c857e137f302339ffab6.js": "/MAVIS/precache-manifest.29a788d73667c857e137f302339ffab6.js",
+    "precache-manifest.37aea6f0bacdcc1ed2c4c0f420304edd.js": "/MAVIS/precache-manifest.37aea6f0bacdcc1ed2c4c0f420304edd.js",
     "service-worker.js": "/MAVIS/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/MAVIS/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.a53c675b.chunk.css.map": "/MAVIS/static/css/main.a53c675b.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.943d94ea.chunk.js",
     "static/css/main.a53c675b.chunk.css",
-    "static/js/main.f934978b.chunk.js"
+    "static/js/main.379d0228.chunk.js"
   ]
 }
